@@ -1,10 +1,10 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="CH 01 : POS RONDA VPS " ca="0" continent_code="ID" country="Managemen" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Malaysia servour" url="http://mb.puma-network.net" token=""/>
-<server name="CH 02 : LOKAL BANYUWANGI " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mb.puma-network.net" port="46245" region="Madiun Plat Ae" url="http://mb.puma-network.net" token=""/>
-<server name="CH 03 : M.P.A " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mumble-de.cleanvoice.com" port="39891" region="Madiun Plat Ae" url="http://mb.puma-network.net" token=""/>
-<server name="CH 04 : V.P.S JATIM " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mb.puma-network.net" port="46560" region="Vps Administrator" url="http://mb.puma-network.net" token="72"/>
-<server name="CH 05 : V.P.S JATENG " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mb.puma-network.net" port="46553" region="Vps Area Jateng" url="http://mb.puma-network.net" token="72"/>
+<server name="CH 01 : 🇮🇩 POS RONDA 23 JAM " ca="0" continent_code="ID" country="Managemen" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Malaysia servour" url="http://mb.puma-network.net" token=""/>
+<server name="CH 02 : 🇮🇩 LOKAL BANYUWANGI " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mb.puma-network.net" port="46245" region="Madiun Plat Ae" url="http://mb.puma-network.net" token=""/>
+<server name="CH 03 : 🇮🇩 M.P.A MADIUN" ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mumble-de.cleanvoice.com" port="39891" region="Madiun Plat Ae" url="http://mb.puma-network.net" token=""/>
+<server name="CH 04 : 🇮🇩 V.P.S JATIM " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mb.puma-network.net" port="46560" region="Vps Administrator" url="http://mb.puma-network.net" token="72"/>
+<server name="CH 05 : 🇮🇩 V.P.S HIBURAN " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="mb.puma-network.net" port="46553" region="Vps Area Jateng" url="http://mb.puma-network.net" token="72"/>
 </servers>
 
 
