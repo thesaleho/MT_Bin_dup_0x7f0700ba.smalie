@@ -6,6 +6,5 @@
 < nama server = " CH 04: 🇮🇩 VPS JATIM " ca = " 0 " benua_code = " ID " country = " Vps Khusus " country_code = " ID " ip = " 164.132.3.62 " port = " 46560 " region = " Vps Administrator " url = " http://mb.vps-network.net " token = " 71 " />
 < nama server = " CH 05: 🇮🇩 VPS HIBURAN " ca = " 0 " benua_code = " ID " negara = " Vps Khusus " country_code = " ID " ip = " 164.132.3.62 " port = " 46553 " region = " Vps Jaringan musik " url = " http://mb.vps-network.net " token = " 72 " />
 < nama server = " CH 06: 🇮🇩 VPS LOKAL JATENG " ca = " 0 " benua_code = " ID " country = " Vps Khusus " country_code = " ID " ip = " 164.132.3.62 " port = " 46671 " region = " Grup Vps cd " url = " http://mb.vps-network.net " token = " 73 " />
-< nama server = " CH 07: 🇮🇩 VPS ADMIN " ca = " 0 " benua_code = " ID " negara = " Vps Khusus " country_code = " ID " ip = " 164.132.3.62 " port = " 46672 " region = " Vps " Url = " http://mb.vps-network.net " token = " 720 " />
 </ server >
 
