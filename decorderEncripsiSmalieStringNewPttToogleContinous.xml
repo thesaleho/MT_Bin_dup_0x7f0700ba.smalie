@@ -1,8 +1,8 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="CHANNEL NUSANTARA" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Nasional" url="http://mb.puma-network.net" token=""/>
+<server name="POS RONDA 24 JAM" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="144.76.73.12" port="43077" region="Rakomwar Nasional" url="http://mb.puma-network.net" token=""/>
 <server name="CHANNEL 001" ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL 002" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
+<server name="CHANNEL 002" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="144.76.73.12" port="39891" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
 <server name="CHANNEL 003" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
 <server name="CHANNEL 004" ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
 <server name="CHANNEL 005" ca="0" continent_code="ID" country="CHANNEL 005" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Channel" url="http://mb.puma-network.net" token=""/>
