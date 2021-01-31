@@ -1,12 +1,1 @@
-<?xml version='1.0' standalone='yes'?>
-<servers>
-<server name="CH 01 : 🇮🇩 POS RONDA 23 JAM " ca="0" continent_code="ID" country="Managemen" country_code="ID" ip="144.76.73.12" port="43077" region="Malaysia servour" url="http://mb.vps-network.net" token=""/>
-<server name="CH 02 : 🇮🇩 LOKAL BANYUWANGI " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="164.132.3.62" port="46245" region="Madiun Plat Ae" url="http://mb.vps-network.net" token=""/>
-<server name="CH 03 : 🇮🇩 M.P.A MADIUN" ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="144.76.73.12" port="39891" region="Madiun Plat Ae" url="http://mb.vps-network.net" token=""/>
-<server name="CH 04 : 🇮🇩 V.P.S JATIM " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="164.132.3.62" port="46560" region="Vps Administrator" url="http://mb.vps-network.net" token="71"/>
-<server name="CH 05 : 🇮🇩 V.P.S HIBURAN " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="164.132.3.62" port="46553" region="Vps Musik net" url="http://mb.vps-network.net" token="72"/>
-<server name="CH 06 : 🇮🇩 LOKAL JATENG " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="164.132.3.62" port="46671" region="Vps Group cd" url="http://mb.vps-network.net" token="73"/>
-<server name="CH 07 : 🇮🇩 V.P.S ADMIN " ca="0" continent_code="ID" country="Vps Khusus" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Privated" url="http://mb.vps-network.net" token="720"/>
-</servers>
-
 
